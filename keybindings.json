@@ -1,0 +1,11 @@
+[
+    {
+        "key": "shift+cmd+s",
+        "command": "saveAll"
+    },
+    {
+        "key": "shift+cmd+t",
+        "command": "workbench.action.terminal.toggleTerminal",
+        "when": "terminal.active"
+    }
+]
